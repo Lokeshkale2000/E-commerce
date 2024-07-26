@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "name": "Muesli_ChocoBerryCrunch",
+        "price": 270,
+        "image": "https://pintola.in/cdn/shop/files/Muesli_ChocoBerryCrunch-350gm_600x600_bfff97d4-fadf-4c64-829d-904e0742893b_400x.jpg?v=1718364913",
+        "description": "350g",
+        "discountedPrice": 250
+    },
+    {
+        "id": 2,
+        "name": "Fruit & Nut Muesli",
+        "price": 280,
+        "image": "https://pintola.in/cdn/shop/files/Muesli_Fruit_N_Nut-350gm_600x600_9f511e1f-82a9-470a-88e7-6b0df97f8619_400x.jpg?v=1718364969",
+        "description": "350g",
+        "discountedPrice": 270
+    },
+    {
+        "id": 3,
+        "name": "Peanut Better",
+        "price": 189,
+        "image": "https://pintola.in/cdn/shop/files/High_Protein_Dark_Chocolate_Crunchy_1kg_600x600_82390de3-2a65-4daf-b02f-2ee68ca52ef7_400x.jpg?v=1719218085",
+        "description": "400g",
+        "discountedPrice": 180
+    },
+    {
+        "id": 4,
+        "name": "Jumbo Rolled Oats",
+        "price": 270,
+        "image": "https://pintola.in/cdn/shop/files/Jumbo_Rolled_Oats-400g_600x600_327d54b2-ffa1-45f2-85ac-cf2e8c946da0_400x.jpg?v=1718345327",
+        "description": "400g",
+        "discountedPrice": 265
+    },
+    {
+        "id": 5,
+        "name": "Wholegrain & Seeds Muesli",
+        "price": 270,
+        "image": "https://pintola.in/cdn/shop/files/Muesli_Whole_Grain_Seeds-350gm_600x600_05fdeae2-b6e8-42cd-b60b-5095a7060546_400x.jpg?v=1718365171",
+        "description": "350g",
+        "discountedPrice": 265
+    },{
+        "id": 6,
+        "name": "High Protein Dark Chocolate Oats",
+        "price": 270,
+        "image": "https://pintola.in/cdn/shop/files/HPOats-400gm_600x600_8b96b4b1-778c-4558-838a-2ecb2be789a6_400x.jpg?v=1719222911",
+        "description": "350g",
+        "discountedPrice": 235
+    }
+]
